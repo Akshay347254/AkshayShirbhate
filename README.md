@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Data Analyst**
 
-- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/akshayshirbhate](https://www.novypro.com/profile_projects/akshayshirbhate)
+- 👨💻 All of my projects are available at [https://www.novypro.com/profile_projects/akshayshirbhate](https://www.novypro.com/profile_projects/akshayshirbhate)
 
 - 💬 Ask me about **Power BI, SQL, MS Word**
 
