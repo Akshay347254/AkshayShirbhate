@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Shirbhate</h1>
 <h3 align="center">An aspiring Data Analyst from India</h3>
-<img align="right"alt="coding"width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay347254" alt="akshay347254" /></a> </p>
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 - 🌱 I’m currently learning **SQL**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Data Analyst**
 
-- 👨💻 All of my projects are available at [https://www.novypro.com/profile_projects/akshayshirbhate](https://www.novypro.com/profile_projects/akshayshirbhate)
+- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/akshayshirbhate](https://www.novypro.com/profile_projects/akshayshirbhate)
 
 - 💬 Ask me about **Power BI, SQL, MS Word**
 
