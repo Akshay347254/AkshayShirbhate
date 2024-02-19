@@ -1,3 +1,4 @@
+![logo](https://media.licdn.com/dms/image/D5616AQHSIHN-IhPfCA/profile-displaybackgroundimage-shrink_350_1400/0/1666096419897?e=1714003200&v=beta&t=chz4W8CLShRK6jPeppIsZUkPc4CI6xkwEMS9qDuIF0c)
 <h1 align="center">Hi 👋, I'm Akshay Shirbhate</h1>
 <h3 align="center">An aspiring Data Analyst from India</h3>
 
